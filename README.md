@@ -3,6 +3,5 @@ Crypto Web Application
     
 Tools and Technologies used in this Web application:
 * Ant design - React UI library for styling the React application.
-* Routing 
-* Redux - state management tool
-* 
+* React Router - library for Routing across the application.
+* Redux - centralized state management libraray. 
